@@ -4,16 +4,16 @@ public class CompoundOperator
 {
     public static void main(String[] args) {
 
-        //int is data type, b is variable reference, 10 is literal
+        // 1.  Unary operator it has one operand and one operator z is operand and uranry value is +
+        int z= 16;   //int z is data type, z is variable name(Identifier), 10 is variable value(literal)
 
-        //Unary operatror
-
+//2. Binary operator - it has 2 operands like b and s, and operator +
         int b= +20; //unary plus
         int s = -10   ; //unary minus
         int sum1 = b+s;
         System.out.println(sum1);
         System.out.println("============");
-
+//3.trinary - where 3 operands are used
    int a = 22;
 //compound operator are +=,-=,/=,*=
         a+=10;  //it means we will add 10 in value of a

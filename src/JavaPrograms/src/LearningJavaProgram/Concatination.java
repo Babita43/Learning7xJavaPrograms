@@ -23,5 +23,14 @@ public class Concatination {
         System.out.println(ch);
         System.out.println(ch+b);
 
+        int d= 43;
+        int f= 24;
+        String si = "KK";
+        String sj = "vv";
+        System.out.println(si+sj+d+f);
+        System.out.println((si+sj)+ d+ f);
+        System.out.println((si+sj)+ (d+ f));
+        System.out.println((si+sj+ d)+ f);
+
     }
 }
