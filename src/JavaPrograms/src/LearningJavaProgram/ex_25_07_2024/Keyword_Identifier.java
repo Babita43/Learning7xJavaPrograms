@@ -1,4 +1,4 @@
-package JavaPrograms.src.LearningJavaProgram;
+package JavaPrograms.src.LearningJavaProgram.ex_25_07_2024;
 
 public class Keyword_Identifier {
     public static void main(String[] args) {

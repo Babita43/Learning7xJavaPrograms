@@ -1,4 +1,4 @@
-package JavaPrograms.src.LearningJavaProgram;
+package JavaPrograms.src.LearningJavaProgram.ex_25_07_2024;
 
 public class Strings {
     public static void main(String[] args) {
@@ -34,7 +34,7 @@ public class Strings {
         //******************************************
         String nameS = new String("Hello");
         String nameO = new String("Hello");
-        System.out.println(h==nameS);  // it is false becasue store value is differet one is stored in SCP and other in heap
+          // it is false becasue store value is differet one is stored in SCP and other in heap
         System.out.println(h.equals(nameS)); // it is true becasue it checks content wise and content is same
         System.out.println(nameS==nameO);  // check for ref, it is false because stored in heaps but in differnt locations
         System.out.println(nameS.equals(nameO));

@@ -1,6 +1,4 @@
-package JavaPrograms.src.LearningJavaProgram;
-
-import java.sql.SQLOutput;
+package JavaPrograms.src.LearningJavaProgram.ex_25_07_2024;
 
 public class DataTypes
 {

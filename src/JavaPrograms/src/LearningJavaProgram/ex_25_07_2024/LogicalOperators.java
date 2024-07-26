@@ -1,4 +1,4 @@
-package JavaPrograms.src.LearningJavaProgram;
+package JavaPrograms.src.LearningJavaProgram.ex_25_07_2024;
 
 public class LogicalOperators {
     public static void main(String[] args) {
@@ -22,8 +22,14 @@ System.out.println(result2);
         System.out.println(boo);
         System.out.println(boo1);
 
-
-
+/*Note :
+When to use &&
+                When you want to check if multiple conditions are all true.
+                When all conditions must be met for the action to be performed.
+ When to use ||
+When you want to check if at least one of several conditions is true.
+When any one of the conditions being true is sufficient for the action to be performed.
+*/
     }
 
 }
