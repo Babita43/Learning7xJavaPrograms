@@ -1,14 +1,18 @@
 package JavaPrograms.src.LearningJavaProgram.ex_26_07_2024_Conditions;
 
+import java.util.Scanner;
+
 import static java.lang.System.*;
 
 public class LeapYear {
     public static void main(String[] args) {
-        int year = 2022;
-        if(year/4==1){
-            System.out.println("Year is not leap");
+        Scanner sc= new Scanner(System.in);
+
+        int year = sc.nextInt();
+        if(year%4==0){
+            System.out.println("it is leap : "+ year);
         }else{
-            System.out.println("Year is leap");
+            System.out.println("it is not leap : "+ year);
 
         }
 
