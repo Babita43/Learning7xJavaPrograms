@@ -12,6 +12,7 @@ public class LeftInvertedPyramid
             System.out.println("");
         }
 //Right pyramid
+        System.out.println("Right pyramid");
         for(int row = 1; row <=n;row++){
             for(int col =5;col>row;col--){
  System.out.print(" ");

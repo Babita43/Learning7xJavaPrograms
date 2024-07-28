@@ -2,7 +2,7 @@ package JavaPrograms.src.LearningJavaProgram.ex_27_07_2024_Arrays;
 
 import java.util.Scanner;
 
-public class ListOfArray {
+public class ArrayProgram {
     public static void main(String[] args) {
         int num[] = {12, 45, 65, 54, 87};
         System.out.println(num.length);   // it shows total length of array
