@@ -32,7 +32,7 @@ public class MaximumSalary {
         System.out.println("Maximim Salary sorting : " +salaries[salaries.length-1]);
         System.out.println("second Highest Salary sorting : " + salaries[salaries.length-2]);
 
-        int min = 0;
+        int min = salaries[0];
         for (int j = 0; j < salaries.length; j++) {
             if(salaries[j]<min){
                min=salaries[j];
