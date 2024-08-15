@@ -4,7 +4,7 @@ public class AboutArray {
     public static void main(String[] args) {
       /* Array is collection of same data type
        It Stores data in continuous memory
-       Its index start from [0] and lenght 1
+       Its index start from [0] and end with lenht-1 and lenght start with 1
        it is fixed size */
 
 

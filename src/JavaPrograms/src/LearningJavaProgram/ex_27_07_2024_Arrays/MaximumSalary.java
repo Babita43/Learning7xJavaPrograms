@@ -29,7 +29,7 @@ public class MaximumSalary {
         System.out.println("Third max : "+thirdMax);
 
 //        Arrays.sort(salaries);
-//        System.out.println("Maximim Salary sorting : " +salaries[salaries.length-1]);
+//        System.out.println("Maximum Salary sorting : " +salaries[salaries.length-1]);
 //        System.out.println("second Highest Salary sorting : " + salaries[salaries.length-2]);
 
         int min = salaries[0];
