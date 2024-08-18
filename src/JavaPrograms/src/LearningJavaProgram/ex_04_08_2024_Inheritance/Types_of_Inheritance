@@ -1,0 +1,29 @@
+
+1. Single Inheritance - between father and son
+
+Son inherits from Father
+
+Father
+   !
+  Son
+
+========================================================
+2. Multilevel Inheritance
+Son inherits from father , father inherit from gandfather
+
+GF
+!
+F
+!
+S
+
+In real life , we use inheritance if we want to use something by creating it one time then just call it to use it
+for example : during testing we need to open browser and close browser everytime duting test case execution
+========================================================
+Note : with extend keyword we do not need to use object creation
+=======================================================
+3. Multiple Inheritance
+
+   Father
+   !    !
+Son1    Son2
