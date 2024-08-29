@@ -19,7 +19,7 @@ public class VowelCheck {
                 System.out.println("It is vowel : " + vowel);break;
                 case 'o' :
                 System.out.println("It is vowel : " + vowel); break;
-            case 'u' :
+                case 'u' :
                 System.out.println("It is vowel : " + vowel); break;
 
 
